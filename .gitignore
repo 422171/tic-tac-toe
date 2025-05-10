@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+frontend-project/node_modules/
+
+# Data files
+data.json
+
+# Lock files
+package-lock.json
